@@ -1,0 +1,24 @@
+potential (GUIK)
+
+Alyssa at ATOM? a+om
+
+Human computer interaction
+    -UX
+
+Books
+    -Don't make me think (05/21 UX PA Event)
+    -Design of every day things
+
+Application Types
+    -internal tools
+    -customers
+
+Phases
+    -Discovery (a little proof of concept is expected)
+    -Definition (documentation)  
+
+Tools
+    -Sketch  
+    -balsamic
+    -invision    
+
