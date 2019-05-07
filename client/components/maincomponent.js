@@ -16,13 +16,16 @@ class MainDisplay extends React.Component {
           brand={
             <Row>
               {" "}
-              <Col m={6} s={12}>
+              <Col m={6} s={6}>
                 {" "}
                 <img src={Logo} alt="Logo" className="logo" />{" "}
               </Col>{" "}
-              <Col m={6} s={12}>
+              <Col m={6} s={6}>
                 {" "}
-                <h2 className="page-title"> My WebPage</h2>{" "}
+                <h2 className="page-title">
+                  {" "}
+                  Cheyra Dickinson Development
+                </h2>{" "}
               </Col>{" "}
             </Row>
           }

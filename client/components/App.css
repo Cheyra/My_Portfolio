@@ -86,7 +86,7 @@ margin:0px auto;
  float:right;
 }
 .pageTabs{
-  height: 800px
+  height: 100%
 }
 .sidenav-trigger{
   display: none
@@ -97,7 +97,8 @@ margin:0px auto;
 .allCards{
   border: 2px;
   border-style: outset;
-  border-color: rgb(63, 15, 63)
+  border-color: rgb(63, 15, 63);
+  font-family: 'Maven Pro', sans-serif;
 }
 .card-content{
   color: black
@@ -121,16 +122,67 @@ a{
 }
 .pageTabs{
   color: rgb(63, 15, 63);
+  /* font-family: 'Just Another Hand', cursive; */
+/* font-family: 'Amatic SC', cursive; */
+font-family: 'Maven Pro', sans-serif!important;
 }
 .page-title{
 color: rgb(63, 15, 63);
+font-family: 'Akronim', cursive;
 
+/* font-family: 'Just Another Hand', cursive; */
+/* font-family: 'BioRhyme Expanded', serif; */
+/* font-family: 'Amatic SC', cursive; */
 
 }
 .nav-wrapper{
   height: 200px !important
 }
+/* footer */
 .page-footer{
   background-color:rgb(63, 15, 63)!important;
-  color: whitesmoke !important
+  color: whitesmoke !important;
+  font-family: 'Akronim', cursive;
+  font-size: 20px
+}
+.quote{
+  width: 100%
+}
+.page-icons-facebook{
+  color: rgb(0,119,181) !important
+}
+.page-icons-linkedin{
+  color: black !important
+}
+.skill-list{
+  background:rgb(63, 15, 63)!important;
+  color: whitesmoke;
+  width:130px
+}
+.skill-list:hover{
+  background:rgb(153, 39, 153)!important;
+  color: whitesmoke;
+  width:200px
+}
+.card-action{
+  background-color: rgb(63, 15, 63)!important;
+  color: whitesmoke
+}
+/* about me section */
+.survey{
+  /* background-color: rgb(63, 15, 63)!important; */
+  color: rgb(63, 15, 63)!important;
+  background-color: whitesmoke!important;
+}
+/* contact section */
+.invite{
+  font-family: 'Amatic SC', cursive;
+
+  /* font-family: 'Maven Pro', sans-serif!important; */
+}
+/* mobile adjustments */
+@media screen and (max-width:500px){
+.logo{
+  height: 50px
+}
 }
